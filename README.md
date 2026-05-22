@@ -29,8 +29,10 @@ and button controls.
 - C++ / Arduino (firmware)
 
 ## Project Files
-- Schematic (.kicad_sch)
-- PCB Layout (.kicad_pcb)
+- Schematic (digital clock.kicad_sch)
+
+
+- PCB Layout (digital clock.kicad_pcb)
 
 ## Designer
 Ezekiel Ekwam-Bentsil Dadze
