@@ -1,5 +1,5 @@
 
-# Digital Clock — KiCad PCB Project ⏰
+# Digital Clock — KiCad PCB Project 
 
 A microcontroller-based digital clock designed and built using 
 KiCad. Features a 4-digit 7-segment display, buzzer alert system, 
